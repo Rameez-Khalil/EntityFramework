@@ -1,0 +1,17 @@
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Data\bin\Debug\net8.0\EFCore.Data.deps.json
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Data\bin\Debug\net8.0\EFCore.Data.runtimeconfig.json
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Data\bin\Debug\net8.0\EFCore.Data.dll
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Data\bin\Debug\net8.0\EFCore.Data.pdb
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Data\bin\Debug\net8.0\EFCore.Domain.dll
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Data\bin\Debug\net8.0\EFCore.Domain.pdb
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Data\obj\Debug\net8.0\EFCore.Data.csproj.AssemblyReference.cache
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Data\obj\Debug\net8.0\EFCore.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Data\obj\Debug\net8.0\EFCore.Data.AssemblyInfoInputs.cache
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Data\obj\Debug\net8.0\EFCore.Data.AssemblyInfo.cs
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Data\obj\Debug\net8.0\EFCore.Data.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Data\obj\Debug\net8.0\EFCore.D.29309F34.Up2Date
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Data\obj\Debug\net8.0\EFCore.Data.dll
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Data\obj\Debug\net8.0\refint\EFCore.Data.dll
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Data\obj\Debug\net8.0\EFCore.Data.pdb
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Data\obj\Debug\net8.0\EFCore.Data.genruntimeconfig.cache
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Data\obj\Debug\net8.0\ref\EFCore.Data.dll

@@ -1,0 +1,11 @@
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Domain\bin\Debug\net8.0\EFCore.Domain.deps.json
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Domain\bin\Debug\net8.0\EFCore.Domain.dll
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Domain\bin\Debug\net8.0\EFCore.Domain.pdb
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Domain\obj\Debug\net8.0\EFCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Domain\obj\Debug\net8.0\EFCore.Domain.AssemblyInfoInputs.cache
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Domain\obj\Debug\net8.0\EFCore.Domain.AssemblyInfo.cs
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Domain\obj\Debug\net8.0\EFCore.Domain.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Domain\obj\Debug\net8.0\EFCore.Domain.dll
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Domain\obj\Debug\net8.0\refint\EFCore.Domain.dll
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Domain\obj\Debug\net8.0\EFCore.Domain.pdb
+D:\DEVELOPMENT\EFCore\01 - GettingStarted\EFCore\EFCore.Domain\obj\Debug\net8.0\ref\EFCore.Domain.dll

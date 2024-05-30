@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEVELOPMENT\\EFCore\\01 - GettingStarted\\EFCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5432929B-25E5-4B98-8AB1-51248331DF77}|EFCore.Data\\EFCore.Data.csproj|d:\\development\\efcore\\01 - gettingstarted\\efcore\\efcore.data\\footballleaguedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5432929B-25E5-4B98-8AB1-51248331DF77}|EFCore.Data\\EFCore.Data.csproj|solutionrelative:efcore.data\\footballleaguedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD232A1E-C4DC-4300-8A13-B3155014BB70}|ConsoleApplication\\ConsoleApplication.csproj|d:\\development\\efcore\\01 - gettingstarted\\efcore\\consoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD232A1E-C4DC-4300-8A13-B3155014BB70}|ConsoleApplication\\ConsoleApplication.csproj|solutionrelative:consoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5432929B-25E5-4B98-8AB1-51248331DF77}|EFCore.Data\\EFCore.Data.csproj|d:\\development\\efcore\\01 - gettingstarted\\efcore\\efcore.data\\efcore.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5432929B-25E5-4B98-8AB1-51248331DF77}|EFCore.Data\\EFCore.Data.csproj|solutionrelative:efcore.data\\efcore.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5B2EB-F36D-4E38-A63E-DD10506DD6CB}|EFCore.Domain\\EFCore.Domain.csproj|d:\\development\\efcore\\01 - gettingstarted\\efcore\\efcore.domain\\coach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E5B2EB-F36D-4E38-A63E-DD10506DD6CB}|EFCore.Domain\\EFCore.Domain.csproj|solutionrelative:efcore.domain\\coach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E5B2EB-F36D-4E38-A63E-DD10506DD6CB}|EFCore.Domain\\EFCore.Domain.csproj|d:\\development\\efcore\\01 - gettingstarted\\efcore\\efcore.domain\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E5B2EB-F36D-4E38-A63E-DD10506DD6CB}|EFCore.Domain\\EFCore.Domain.csproj|solutionrelative:efcore.domain\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEVELOPMENT\\EFCore\\01 - GettingStarted\\EFCore\\ConsoleApplication\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApplication\\Program.cs",
+              "ToolTip": "D:\\DEVELOPMENT\\EFCore\\01 - GettingStarted\\EFCore\\ConsoleApplication\\Program.cs",
+              "RelativeToolTip": "ConsoleApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:48:30.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FootballLeagueDbContext.cs",
+              "DocumentMoniker": "D:\\DEVELOPMENT\\EFCore\\01 - GettingStarted\\EFCore\\EFCore.Data\\FootballLeagueDbContext.cs",
+              "RelativeDocumentMoniker": "EFCore.Data\\FootballLeagueDbContext.cs",
+              "ToolTip": "D:\\DEVELOPMENT\\EFCore\\01 - GettingStarted\\EFCore\\EFCore.Data\\FootballLeagueDbContext.cs",
+              "RelativeToolTip": "EFCore.Data\\FootballLeagueDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:27:47.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EFCore.Data.csproj",
+              "DocumentMoniker": "D:\\DEVELOPMENT\\EFCore\\01 - GettingStarted\\EFCore\\EFCore.Data\\EFCore.Data.csproj",
+              "RelativeDocumentMoniker": "EFCore.Data\\EFCore.Data.csproj",
+              "ToolTip": "D:\\DEVELOPMENT\\EFCore\\01 - GettingStarted\\EFCore\\EFCore.Data\\EFCore.Data.csproj",
+              "RelativeToolTip": "EFCore.Data\\EFCore.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T10:27:15.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Team.cs",
+              "DocumentMoniker": "D:\\DEVELOPMENT\\EFCore\\01 - GettingStarted\\EFCore\\EFCore.Domain\\Team.cs",
+              "RelativeDocumentMoniker": "EFCore.Domain\\Team.cs",
+              "ToolTip": "D:\\DEVELOPMENT\\EFCore\\01 - GettingStarted\\EFCore\\EFCore.Domain\\Team.cs",
+              "RelativeToolTip": "EFCore.Domain\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:57:20.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Coach.cs",
+              "DocumentMoniker": "D:\\DEVELOPMENT\\EFCore\\01 - GettingStarted\\EFCore\\EFCore.Domain\\Coach.cs",
+              "RelativeDocumentMoniker": "EFCore.Domain\\Coach.cs",
+              "ToolTip": "D:\\DEVELOPMENT\\EFCore\\01 - GettingStarted\\EFCore\\EFCore.Domain\\Coach.cs",
+              "RelativeToolTip": "EFCore.Domain\\Coach.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:54:07.439Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
